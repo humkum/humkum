@@ -1,4 +1,4 @@
-# <img align="right" src="https://github-readme-stats.vercel.app/api?username=humkum&show_icons=true&theme=onedark">
+<!--- <img align="right" src="https://github-readme-stats.vercel.app/api?username=humkum&show_icons=true&theme=onedark"> --->
 
 
 - 👋 Hi, I’m @humkum
